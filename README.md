@@ -104,6 +104,10 @@ python src/inference.py
 [https://note.com/izai/n/nd6783bf4e4c6](https://note.com/izai/n/nd6783bf4e4c6)
 ```
 
+## ライセンス
+License: Use of Llama 3.2 is governed by the Llama 3.2 Community License (a custom, commercial license agreement).
+
+
 
 
 
