@@ -7,7 +7,7 @@
 - **モデル:** unsloth/Llama-3.2-1B をベースモデルとして使用
 - **ファインチューニング:** JSONL 形式のデータセットを用いて微調整
 - **推論:** 学習済みモデルをロードしてテキスト生成を実施
-- **メモリ最適化:** 混合精度(fp16)や DeepSpeed、gradient checkpointing を利用
+- **メモリ最適化:** 混合精度(fp16)や DeepSpeedを利用
 - **ログ管理:** Weights & Biases (W&B) を利用
 
 ## ディレクトリ構成
@@ -29,6 +29,9 @@
 
 ```
 # 仮想環境の作成（Anaconda/Minicondaの場合）
+mkdir data
+mkdir output
+mkdir wandb
 conda create -n llma3.2 python=3.10 -y
 conda activate llma3.2
 
