@@ -99,4 +99,11 @@ python src/train.py --train_config config/train_config.yaml --wandb_user <your_w
 python src/inference.py
 ```
 
+## 参考資料
+```
+- [https://note.com/izai/n/nd6783bf4e4c6](https://note.com/izai/n/nd6783bf4e4c6)
+```
+
+
+
 
