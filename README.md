@@ -94,14 +94,14 @@ python src/train.py --train_config config/train_config.yaml --wandb_user <your_w
 ```
 
 ### 推論の実行
-学習が完了すると、output ディレクトリにチェックポイントが保存されます。推論の例は以下の通りです。
+学習が完了すると、output ディレクトリにチェックポイントが保存され推論の例は以下です。
 ```
 python src/inference.py
 ```
 
 ## 参考資料
 ```
-- [https://note.com/izai/n/nd6783bf4e4c6](https://note.com/izai/n/nd6783bf4e4c6)
+[https://note.com/izai/n/nd6783bf4e4c6](https://note.com/izai/n/nd6783bf4e4c6)
 ```
 
 
