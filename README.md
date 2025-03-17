@@ -1,6 +1,6 @@
 # LlamaCT: Llama-3.2 ファインチューニングと推論
 
-このプロジェクトは、[unsloth/Llama-3.2-1B](https://huggingface.co/unsloth/Llama-3.2-1B) をベースに、ダウンストリームタスク向けにファインチューニングおよび推論を行うための実装例です。DeepSpeed などを利用してメモリ最適化も実施しています。
+[unsloth/Llama-3.2-1B](https://huggingface.co/unsloth/Llama-3.2-1B) をベースに、ダウンストリームタスク向けにファインチューニングおよび推論を行うための実装例。DeepSpeed などを利用してメモリ最適化も実施しています。
 
 ## 概要
 
